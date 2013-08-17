@@ -1,3 +1,11 @@
+/**********************************/
+/* FLPL Code Club (C)2013-FLPL    */
+/**********************************/
+/* SpaceQuest.cpp                 */
+/**********************************/
+/* SpaceQuest 3001                */
+/* This is a text based RPG.      */
+/**********************************/
 #include<iostream>
 using namespace std;
 
